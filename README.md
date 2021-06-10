@@ -3,7 +3,7 @@
 
 ### My Name Is `Hamid Reza Nikoonia`
 
-I am a computer science engineer and have experience in working in many startups as technical Lead and Full stack developer👨‍💻. Interested in making life easier by creating utility tools. Fascinated about space
+I am a computer science engineer and have experience in working in many startups as technical Lead and Full stack developer for 15 years👨‍💻. Interested in making life easier by creating utility tools. Fascinated about space
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
