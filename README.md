@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 
-My Name Is `Hamid Reza Nikoonia` 
-I am full-Stack web developer for 15 years
+### My Name Is `Hamid Reza Nikoonia`
+
+I am a computer science engineer and have experience in working in many startups as technical Lead and Full stack developer👨‍💻. Interested in making life easier by creating utility tools. Fascinated about space
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -26,9 +27,9 @@ const user = {
      styles: ["bootstrap", "tailwindCSS", "SCSS", "LESS", "styled-component"]
   }
 
-  tools: []
+  education: ["Bachelor's in Software Enginering"]
   
-  myhobbies: [ "programming", "cubing", "photography", "reading", "tech"],
+  myhobbies: [ "programming", "Rapsberry Pi Dumb Projects", "photography", "reading", "tech"],
 
   architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
 
